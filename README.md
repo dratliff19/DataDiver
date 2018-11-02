@@ -1,13 +1,13 @@
 # DataDiver
 A simple CSV parsing tool for preparing machine learning data
 
-#Commands
+# Commands
 
-###drill
+### drill
 Drill down and across using unique values from the dataset.
 
-###create
+### create
 Creates a new dataset CSV file. 
 
-###headers
+### headers
 Prints the headers of the CSV document.
