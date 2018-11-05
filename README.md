@@ -1,5 +1,5 @@
 # DataDiver
-A simple CSV parsing tool for preparing machine learning data
+A simple CSV parsing tool for preparing machine learning data.
 
 # Commands
 
