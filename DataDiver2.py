@@ -27,7 +27,7 @@ def saveNewFile(dataToWrite):
                     for row in dataToWrite:
                         writeData.append((num, row[column]))  # Write rows to file.
                     writer2.writerows(writeData)
-                    writer2.close()
+                    csv_file2.close()
                     takecmd(dataToWrite)
                 except ValueError:
                     print("Must be an integer!")
